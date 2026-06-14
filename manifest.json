@@ -2,11 +2,11 @@
   "name": "MEDIACO Gestion Paie",
   "short_name": "MEDIACO Paie",
   "description": "Interface de gestion des pointages MEDIACO",
-  "start_url": "./paie.html",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait-primary",
-  "background_color": "#ffc107",
+  "background_color": "#1a1a1a",
   "theme_color": "#ffc107",
   "lang": "fr",
   "icons": [
